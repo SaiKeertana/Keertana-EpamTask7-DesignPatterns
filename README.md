@@ -1,2 +1,2 @@
-# Keertana-EpamTask7-DesignPatterns
+# Divya-EpamTask7-DesignPatterns
 Design Patterns
